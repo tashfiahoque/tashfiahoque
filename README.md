@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tashfiahoque
+- 👋 Hi, I’m Tashfia Hoque
 - 👀 I’m interested in developing website and mobile app.
 - 🌱 I’m currently learning javascript and it's framework React.
-- 💞️ I’m looking to collaborate on developing professional sites.
+- 💞️ I’m looking forward to get hired.
 - 📫 Reach me at tashfiahoque@gmail.com
 
 <!---
